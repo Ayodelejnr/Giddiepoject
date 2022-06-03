@@ -1,2 +1,2 @@
 # Giddiepoject
-zuri assignment
+zuri assignment on Django project
